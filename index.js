@@ -1,0 +1,5 @@
+{
+  components: [
+    {title: 'my components' }
+  ]
+}
